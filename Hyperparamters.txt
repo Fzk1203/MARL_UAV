@@ -1,0 +1,12 @@
+d = 500 m
+H = 100 m
+sigma^2 = -80 dBm
+W/H = 75KHz
+T_s = 0.1s
+a = 9.61 and b = 0.16
+f = 2 GHz
+eta_Los = 1, eta_NLos = 20
+d_o = 1 m, Beta_o = -60 dB, a = 2
+c_a = 0.5
+p_a = 0.8
+delta = 1
